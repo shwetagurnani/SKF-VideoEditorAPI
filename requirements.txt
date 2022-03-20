@@ -13,7 +13,7 @@ Django==2.2.27
 django-appconf==1.0.5
 django-base64field==1.0
 django-cryptography==1.0
-django-storages==1.11.1
+django-storages==1.12.3
 djangorestframework==3.9.2
 et-xmlfile==1.1.0
 idna==3.3
